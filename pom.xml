@@ -15,7 +15,7 @@
     <description>The etcd3 registy module of dubbo project</description>
     <properties>
         <skip_maven_deploy>false</skip_maven_deploy>
-        <netty4_version>4.1.25.Final</netty4_version>
+        <netty4_version>4.1.42.Final</netty4_version>
         <jetcd_version>0.3.0</jetcd_version>
 
         <maven_source_version>3.0.1</maven_source_version>
